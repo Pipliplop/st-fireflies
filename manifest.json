@@ -1,0 +1,7 @@
+{
+  "name": "Fireflies",
+  "version": "1.0.0",
+  "description": "Floating glowing fireflies effect",
+  "author": "pippy",
+  "entry": "index.js"
+}
